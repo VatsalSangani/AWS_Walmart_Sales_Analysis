@@ -18,8 +18,7 @@ End-to-end data solution featuring:
 
 Key Achievements:
 ✅ Built scalable data infrastructure on AWS Cloud  
-✅ Automated data ingestion and transformation processes  
-✅ Developed predictive models for sales forecasting  
+✅ Automated data ingestion and transformation processes   
 ✅ Created interactive dashboards with 15+ key performance metrics  
 ✅ Optimized PostgreSQL queries for 40% faster data retrieval
 
