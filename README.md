@@ -30,4 +30,7 @@ graph LR
     C --> D[Analytical Datamart]
     D --> E[Power BI Visualization]
     E --> F[Report Generation]
+```
 
+## Dashboard 
+![Dashboard Preview](
